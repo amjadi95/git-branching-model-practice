@@ -3,3 +3,7 @@ on master  first commit
 master-branch develop created
 
 develop-first commit
+
+develop-second commit
+
+develop-third commit
