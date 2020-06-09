@@ -7,3 +7,5 @@ after creating release branch
 only release branch can merge into master
 
 *some bugs fixed
+
+*new feature 2 & 3
