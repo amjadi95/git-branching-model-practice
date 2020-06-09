@@ -1,1 +1,7 @@
 file 2 first sentence
+
+second line
+
+thir line
+
+fourth line
